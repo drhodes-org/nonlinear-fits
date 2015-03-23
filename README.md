@@ -10,3 +10,4 @@ https://octodex.github.com/images/yaktocat.png
 
 
 Can I edit from home?
+Yep.
