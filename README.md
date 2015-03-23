@@ -10,5 +10,5 @@ function. Assume that function, and for this example, assume x^2.
 Just something.  Trying out githubs new editor.
 Can it do images?
 https://octodex.github.com/images/yaktocat.png
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/drhodes-org/nonlinear-fits/blob/master/x-squared.png)
 
